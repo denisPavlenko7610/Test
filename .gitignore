@@ -1,0 +1,47 @@
+# Rider IDE
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Logs
+*.log
+**/*.log
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Rider settings and workspace
+.idea/
+*.sln.iml
+*.dotCover
+*_CoverResults/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# User-specific JetBrains Rider files
+workspace.xml
+tasks.xml
+usage.statistics.xml
+# Rider-generated coverage results
+coverage/
+.idea/workspace.xml
