@@ -1,0 +1,10 @@
+Index: js_file.js
+===================================================================
+diff --git a/js_file.js b/js_file.js
+--- a/js_file.js	(revision c64262fb4a2cabfdabfae773545abfd0aab93e74)
++++ b/js_file.js	(date 1735990241590)
+@@ -1,0 +1,4 @@
++git tag -a v1.0.0 -m "Initial release version 1.0.0"
++
++git tag v2.0.0-release
++
